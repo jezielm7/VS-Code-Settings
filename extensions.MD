@@ -8,11 +8,8 @@
 - Color Highlight
 - Colorize
 - Create Next, React and React Native Component
-- Dart
-- Docker
 - DotENV
 - EditorConfig for VS Code
-- ES7 React/Redux/GraphQL/React-Native snippets
 - ESLint
 - Git Graph
 - Git Lens
@@ -28,7 +25,6 @@
 - React and React Native Development Extensions Pack
 - Rest Client
 - Rocketseat snippets
-- Sass
 - Settings Sync
 - Tabnine
 - Vscode-pdf
